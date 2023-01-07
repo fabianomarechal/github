@@ -8,7 +8,7 @@ I love 🍕, 🎵, 📖 e 💻.
   - [x] [Creating a Repository](https://docs.github.com/pt/get-started/quickstart/create-a-repo)
   - [x] Create a branch
   - [x] Making and committing changes
-  - [ ] Abrir pull request
+  - [x] Opening a pull request
   - [ ] Mesclar pull request
 - [ ] Configurar o git
 - [ ] Criar um repositório
