@@ -23,8 +23,16 @@ I love 🍕, 🎵, 📖 e 💻.
     - [x] HTTPS
     - [x] SSH 
 - [x] [Create a repo](https://docs.github.com/en/get-started/quickstart/create-a-repo)
-- [ ] Fork a repo
-- [ ] Fluxo do Github
+- [x] [Fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+  - [x] Forking a repository
+  - [x] Cloning your forked repository
+  - [x] Configuring Git to sync your fork with the upstream repository ( ```git remote add upstream URL_OF_UPSTREAM``` )
+- [x] [Github Flow](https://docs.github.com/en/get-started/quickstart/github-flow) 
+  - [x] Create a branch
+  - [x] Make Changes
+  - [x] Create a Pull Request
+  - [x] Merge your Pull Request
+  - [x] Delete your branch
 - [ ] Contribuir para projetos
 - [ ] Interagir socialmente
 - [ ] Comunicar-se no github
