@@ -22,7 +22,7 @@ I love 🍕, 🎵, 📖 e 💻.
   - [x] Authenticating with github from git
     - [x] HTTPS
     - [x] SSH 
-- [ ] Criar um repositório
+- [x] [Criar um repositório](https://docs.github.com/en/get-started/quickstart/create-a-repo)
 - [ ] Bifurcar um repositório
 - [ ] Fluxo do Github
 - [ ] Contribuir para projetos
