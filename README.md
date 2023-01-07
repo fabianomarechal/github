@@ -33,9 +33,28 @@ I love 🍕, 🎵, 📖 e 💻.
   - [x] Create a Pull Request
   - [x] Merge your Pull Request
   - [x] Delete your branch
-- [ ] Contribuir para projetos
-- [ ] Interagir socialmente
-- [ ] Comunicar-se no github
-- [ ] Glossário do Github
-- [ ] Folha de Consultas Git
-- [ ] Learning resources
+- [x] [Contributing to projects](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
+  - [x] Forking a repository
+  - [x] Cloning a fork
+  - [x] Create a branch to work
+  - [x] Making and pushing changes
+  - [x] Making a Pull Request
+- [x] [Be social](https://docs.github.com/en/get-started/quickstart/be-social)
+  - [x] Following people
+  - [x] Watching a repository
+  - [x] Joining the conversation
+  - [x] Communicating on GitHub
+  - [x] Participating in organizations
+  - [x] Following organizations
+- [x] [Communicating on GitHub](https://docs.github.com/en/get-started/quickstart/communicating-on-github)
+  - [x] Github issues
+  - [x] Pull Requests
+  - [x] Team discussions
+  - [x] Github Discussions
+- [x] [Github glossary](https://docs.github.com/en/get-started/quickstart/github-glossary)
+- [x] [Git cheatsheet](https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/)
+- [x] [Learning resources]()
+  - [x] [Git](https://git-scm.com/)
+  - [x] [Github skills](https://skills.github.com/)
+  - [x] [Github flow](https://guides.github.com/introduction/flow)
+  - [x] [Github Community](https://github.community/)
