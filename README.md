@@ -5,12 +5,12 @@ I love 🍕, 🎵, 📖 e 💻.
 
 ## Get Started
 - [x] [Hello world](https://docs.github.com/pt/get-started/quickstart/hello-world)
-  - [x] [Creating a Repository](https://docs.github.com/pt/get-started/quickstart/create-a-repo)
+  - [x] Creating a Repository
   - [x] Create a branch
   - [x] Making and committing changes
   - [x] Opening a pull request
   - [x] Merging a pull request
-- [ ] Configurar o git
+- [ ] [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
 - [ ] Criar um repositório
 - [ ] Bifurcar um repositório
 - [ ] Fluxo do Github
