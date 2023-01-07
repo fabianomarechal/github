@@ -11,6 +11,10 @@ I love 🍕, 🎵, 📖 e 💻.
   - [x] Opening a pull request
   - [x] Merging a pull request
 - [ ] [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
+  - [ ] Setting up Git
+  - [ ] Authenticating with github with git
+    - [ ] HTTPS
+    - [ ] SSH 
 - [ ] Criar um repositório
 - [ ] Bifurcar um repositório
 - [ ] Fluxo do Github
