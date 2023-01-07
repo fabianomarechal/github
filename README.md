@@ -12,7 +12,7 @@ I love 🍕, 🎵, 📖 e 💻.
   - [x] Merging a pull request
 - [ ] [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
   - [ ] Setting up Git
-  - [ ] Authenticating with github with git
+  - [ ] Authenticating with github from git
     - [ ] HTTPS
     - [ ] SSH 
 - [ ] Criar um repositório
