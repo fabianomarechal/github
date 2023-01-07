@@ -1,13 +1,13 @@
 # github
-Repositório para aprendizado sobre Github.
+Repository for learning about github.
 
-Eu amo 🍕, 🎵, 📖 and 💻.
+I love 🍕, 🎵, 📖 e 💻.
 
-## Início Rápido
-- [ ] [Olá mundo](https://docs.github.com/pt/get-started/quickstart/hello-world)
-  - [x] [Criar Repositório](https://docs.github.com/pt/get-started/quickstart/create-a-repo)
-  - [ ] Criar branch
-  - [ ] Criando e fazendo commit
+## Get Started
+- [ ] [Hello world](https://docs.github.com/pt/get-started/quickstart/hello-world)
+  - [x] [Creating a Repository](https://docs.github.com/pt/get-started/quickstart/create-a-repo)
+  - [x] Create a branch
+  - [ ] Making and committing changes
   - [ ] Abrir pull request
   - [ ] Mesclar pull request
 - [ ] Configurar o git
