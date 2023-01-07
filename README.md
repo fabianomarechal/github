@@ -2,8 +2,8 @@
 Repositório para aprendizado sobre Github
 
 ## Início Rápido
-- [ ] Olá mundo
-  - [x] Criar Repositório
+- [ ] [Olá mundo](https://docs.github.com/pt/get-started/quickstart/hello-world)
+  - [x] [Criar Repositório](https://docs.github.com/pt/get-started/quickstart/create-a-repo)
   - [ ] Criar branch
   - [ ] Criando e fazendo commit
   - [ ] Abrir pull request
