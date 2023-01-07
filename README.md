@@ -1,5 +1,7 @@
 # github
-Repositório para aprendizado sobre Github
+Repositório para aprendizado sobre Github.
+
+Eu amo 🍕, 🎵, 📖 and 💻.
 
 ## Início Rápido
 - [ ] [Olá mundo](https://docs.github.com/pt/get-started/quickstart/hello-world)
