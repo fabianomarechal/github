@@ -4,12 +4,12 @@ Repository for learning about github.
 I love 🍕, 🎵, 📖 e 💻.
 
 ## Get Started
-- [ ] [Hello world](https://docs.github.com/pt/get-started/quickstart/hello-world)
+- [x] [Hello world](https://docs.github.com/pt/get-started/quickstart/hello-world)
   - [x] [Creating a Repository](https://docs.github.com/pt/get-started/quickstart/create-a-repo)
   - [x] Create a branch
   - [x] Making and committing changes
   - [x] Opening a pull request
-  - [ ] Mesclar pull request
+  - [x] Merging a pull request
 - [ ] Configurar o git
 - [ ] Criar um repositório
 - [ ] Bifurcar um repositório
