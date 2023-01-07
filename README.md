@@ -7,7 +7,7 @@ I love 🍕, 🎵, 📖 e 💻.
 - [ ] [Hello world](https://docs.github.com/pt/get-started/quickstart/hello-world)
   - [x] [Creating a Repository](https://docs.github.com/pt/get-started/quickstart/create-a-repo)
   - [x] Create a branch
-  - [ ] Making and committing changes
+  - [x] Making and committing changes
   - [ ] Abrir pull request
   - [ ] Mesclar pull request
 - [ ] Configurar o git
