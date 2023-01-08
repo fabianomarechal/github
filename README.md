@@ -68,9 +68,13 @@ I love 🍕, 🎵, 📖 e 💻.
 - [x] Adding a collapsed section
 - [x] Adding a quote
 - [x] Adding a comment
+
+
 #### [About writing and formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
 - [x] Text formatting toolbar
 - [x] Enabling fixed-width fonts in the editor
+
+
 #### [Basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [x] Headings
 - [x] Styling text
@@ -94,4 +98,31 @@ I love 🍕, 🎵, 📖 e 💻.
   - [x] Ignoring Markdown formatting
   - [x] Disabling Markdown rendering
   
+  
+### Work with advanced formatting
+- [x] Organized data with tables
+  - [x] Creating a table
+  - [x] Formatting content within your table
+- [x] Collapsed sections
+- [x] Create code blocks
+- [x] Create diagrams
+- [x] Mathematical expressions
+- [x] Auto linked references
+- [x] Attaching files
+- [x] About task lists
+- [x] Permanent links to code
+- [x] Using keywords in issues and pull requests
 
+
+### Work with saved replies
+- [ ] Creating a saved reply
+- [ ] Editing a saved reply
+- [ ] Deleting a saved reply
+- [ ] Using saved replies
+
+
+### Share content with gists
+- [ ] Creating gists
+- [ ] Forking and cloning gists
+
+## [Using git](git/index.md)
