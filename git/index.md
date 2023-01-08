@@ -16,7 +16,7 @@
 
 ## Get changes from a remote
 - [x] Cloning a repository
-- [ ] Fetching changes from a remote repository
+- [x] Fetching changes from a remote repository
 - [x] Merging changes into your local branch
 - [x] Pulling changes from a remote repository
 
