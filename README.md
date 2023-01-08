@@ -115,14 +115,14 @@ I love 🍕, 🎵, 📖 e 💻.
 
 
 ### Work with saved replies
-- [ ] Creating a saved reply
-- [ ] Editing a saved reply
-- [ ] Deleting a saved reply
-- [ ] Using saved replies
+- [x] Creating a saved reply
+- [x] Editing a saved reply
+- [x] Deleting a saved reply
+- [x] Using saved replies
 
 
 ### Share content with gists
-- [ ] Creating gists
-- [ ] Forking and cloning gists
+- [x] Creating gists
+- [x] Forking and cloning gists
 
 ## [Using git](git/index.md)
