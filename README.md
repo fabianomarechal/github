@@ -3,7 +3,7 @@ Repository for learning about github.
 
 I love 🍕, 🎵, 📖 e 💻.
 
-## Get Started
+## Quick start
 - [x] [Hello world](https://docs.github.com/pt/get-started/quickstart/hello-world)
   - [x] Creating a Repository
   - [x] Create a branch
@@ -58,3 +58,40 @@ I love 🍕, 🎵, 📖 e 💻.
   - [x] [Github skills](https://skills.github.com/)
   - [x] [Github flow](https://guides.github.com/introduction/flow)
   - [x] [Github Community](https://github.community/)
+
+## Writing on Github
+### Start writing on GitHub
+#### [Quickstart](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
+- [x] Creating or editing your profile README
+- [x] Adding an image to suit your visitors
+- [x] Adding a table
+- [x] Adding a collapsed section
+- [x] Adding a quote
+- [x] Adding a comment
+#### [About writing and formatting](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
+- [x] Text formatting toolbar
+- [x] Enabling fixed-width fonts in the editor
+#### [Basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [x] Headings
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
+- [x] Supported color models
+- [x] Links
+- [x] Section links
+  - [x] Relative links
+  - [x] Images
+  - [x] Lists
+  - [x] Nested Lists
+  - [x] Task lists
+  - [x] Mentioning people and teams
+  - [x] Referencing issues and pull requests
+  - [x] Referencing external resources
+  - [x] Uploading assets
+  - [x] Using emoji
+  - [x] Footnotes
+  - [x] Hiding content with comments
+  - [x] Ignoring Markdown formatting
+  - [x] Disabling Markdown rendering
+  
+
