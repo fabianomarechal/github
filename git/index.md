@@ -27,11 +27,20 @@
 - [x] Splitting a subfolder out into a new repository
 
 ## About git subtree merges
+- [x] Setting up the empty repository for a subtree merge
+- [x] Adding a new repository as a subtree
+- [x] Synchronizing with updates and changes
 
 ## About git rebase
+- [x] Rebasing commits against a branch
+- [x] Rebasing commits against a point in time
+- [x] Commands available while rebasing
 
 ## Git rebase
 
 ## Resolve conflicts after rebase
 
 ## Special characters in names
+- [x] Why you need to escape special characters
+- [x] How to escape special characters in branch and tag names
+- [x] Naming branches and tags
